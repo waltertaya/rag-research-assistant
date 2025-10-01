@@ -2,6 +2,8 @@
 
 A powerful Retrieval-Augmented Generation (RAG) system for document analysis and question answering. This tool allows you to ingest various document formats, create vector embeddings, and perform intelligent queries using OpenAI's language models.
 
+- [Design](https://miro.com/welcomeonboard/a1NWS3pzeXFvNHNEVFljMzBXVDJYeVViNnlXYUUxakx3TlRnTnhlcDUxQXpheXZzcWJUd1pFTlIzd2dJdngrK0pzV2ZuRFN0eEpRWUdqMmZ2SE5KejY0Wm5CMnp3bE1tazd2dHBUMlg2SFYyQlFhTlFFNW5iWnRja2dFVWt1SkdzVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=509312314428)
+
 ## Features
 
 - **Multi-format Document Support**: PDF, DOCX, TXT, Markdown, and CSV files
